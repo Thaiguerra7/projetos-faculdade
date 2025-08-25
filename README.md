@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Thais Guerra
+# 👋 Olá, eu sou Thais Guerra
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Em formação como Desenvolvedora Front-End (HTML, CSS, JavaScript)  
